@@ -1,2 +1,2 @@
 # TiendaMascotas
-University Project | AI 
+University Project | LLM & RAG
